@@ -54,7 +54,7 @@ Criteria used:
 * We mined 3,776 tweets for the five patients
 * We tried to extract tweets:
 	* related to symptoms by matching terms in HPO. Only two tweets were extracted (pain 1, dementia 1)
-        * related to drug by using Kusuri. Bulk upload failed. Two tweets were manually found (vitamin 2)
+	* related to drug by using Kusuri. Bulk upload failed. Two tweets were manually found (vitamin 2)
 
 
 ## Resources
