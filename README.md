@@ -31,9 +31,9 @@ Use the patient information timeline to extract biomedical data and analyse the 
 ```
 
 * Tools
-- We will use the Social Media Mining Toolkit [SMMT](https://github.com/thepanacealab/SMMT) developed at BLAH6 by the Panacea Lab to collect and mine Twitter data. 
-- We will use [HPO](https://hpo.jax.org/) to extract symptoms from Twitter data
-- We will use [Kusuri](https://hlp.ibi.upenn.edu/kusuri/home/) to extract drugs from Twitter data.
+	- We will use the Social Media Mining Toolkit [SMMT](https://github.com/thepanacealab/SMMT) developed at BLAH6 by the Panacea Lab to collect and mine Twitter data. 
+	- We will use [HPO](https://hpo.jax.org/) to extract symptoms from Twitter data
+	- We will use [Kusuri](https://hlp.ibi.upenn.edu/kusuri/home/) to extract drugs from Twitter data.
 
 
 ### Workflow
