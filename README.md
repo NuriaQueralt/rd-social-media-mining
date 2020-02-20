@@ -49,6 +49,12 @@ Criteria used:
 - Selected 5 patient timelines. 
 - Retrieved for SMMT: twitter handlers and start-end dates to download the corpus.
 
+### 2. Preprocessing
+By using the SMMT toolkit, twitter data in JSON was converted into data in csv format.
+HPO (hpo.owl) was downloaded and terms in HPO using extracted using the property rdfs:label.
+
+### 3. Keyword match using terms in HPO
+For each term extracted from HPO, checked whether the "text" field of the twitter data in csv includes the term.
 
 ### Results
 * We mined 3,776 tweets for the five patients
